@@ -40,7 +40,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Data Engineer AWS** \
 [**Compass UOL**](https://compass.uol/en/home/) • Part-time remoto \
 Linguagens & Tecnologias: `SQL`, `PostegreSQL`, `Python`, `AWS`, `Docker`, `Spark`\
-Projetos em destaque: [Em breve]()
+Projetos em destaque: [Data Lake AWS](https://github.com/gustavon10/Data-Lake-AWS)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="LinkJr" src="https://linkjr.com.br/favicon.ico" style="margin-right:16px; margin-bottom:8px;"/>](https://linkjr.com.br/)
